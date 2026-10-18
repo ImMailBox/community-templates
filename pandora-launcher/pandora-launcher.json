@@ -200,8 +200,7 @@
             "color": "{{ palettes.tertiary.70.hex }}"
           }
         }
-      },
-      "mode": "dark"
+      }
     }
   ]
 }
