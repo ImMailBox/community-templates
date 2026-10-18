@@ -155,12 +155,10 @@
             "color": "{{ palettes.tertiary.70.hex }}"
           },
           "link_text": {
-            "color": "{{ colors.primary.default.hex }}",
-            "font_style": "normal"
+            "color": "{{ colors.primary.default.hex }}"
           },
           "link_uri": {
-            "color": "{{ colors.secondary.default.hex }}",
-            "font_style": "italic"
+            "color": "{{ colors.secondary.default.hex }}"
           },
           "number": {
             "color": "{{ palettes.tertiary.70.hex }}"
@@ -187,8 +185,7 @@
             "color": "{{ palettes.tertiary.70.hex }}"
           },
           "title": {
-            "color": "{{ colors.primary.default.hex }}",
-            "font_weight": 600
+            "color": "{{ colors.primary.default.hex }}"
           },
           "type": {
             "color": "{{ palettes.secondary.70.hex }}"
